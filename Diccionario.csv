@@ -1,0 +1,31 @@
+Item;Descripci¢n
+Id;Identificador £nico para cada pel°cula.
+movie_title;T°tulo de la pel°cula.
+title_year;A§o de estreno de la pel°cula.
+color;Caracter°stica de la pel°cula, si se encuentra a color o en blanco y negro.
+duration;Duraci¢n de la pel°cula medida en minutos.
+genres;"GÇnero asociado a la pel°cula. Cada pel°cula puede tener m£ltiples gÇneros separado por el car†cter ""|""."
+movie_facebook_likes;"N£mero de ""likes"" de cada pel°cula, obtenido de la plataforma social facebook."
+director_name;Nombre del director.
+director_facebook_likes;"N£mero de ""likes"" del director de cada pel°cula, obtenido de la plataforma social facebook."
+num_critic_for_reviews;N£mero de cr°ticas por revisi¢n para el c†lculo del imdb_score.
+num_user_for_reviews;N£mero de usuarios por revisi¢n para el c†lculo del imdb_score.
+actor_1_name;Nombre del actor principal de la pel°cula.
+actor_2_name;Nombre del actor secundario de la pel°cula.
+actor_3_name;Nombre del tercer actor de la pel°cula.
+actor_1_facebook_likes;"N£mero de ""likes"" del actor principal de cada pel°cula, obtenido de la plataforma social facebook."
+actor_2_facebook_likes;"N£mero de ""likes"" del actor secundario de cada pel°cula, obtenido de la plataforma social facebook."
+actor_3_facebook_likes;"N£mero de ""likes"" del tercer actor de cada pel°cula, obtenido de la plataforma social facebook."
+income;Ingreso obtenido por la pel°cula.
+num_voted_users;N£mero total de usuarios que votaron para el imdb_score.
+cast_total_facebook_likes;"N£mero de ""likes"" totales de todo el elenco, obtenido de la plataforma social facebook."
+plot_keywords;Palabras claves que definen la tem†tica de la pel°cula.
+language;Idioma en el que se encuentra la pel°cula.
+country;Pa°s de origen de la pel°cula.
+content_rating;Rating del contenido de la pel°cula, se utiliza para normar o dar aviso del contenido de la pel°cula y que tan apto es el p£blico seg£n su edad para ver el contenido de la pel°cula.
+budget;Presupuesto de la pel°cula.
+aspect_ratio;Relaci¢n dimensional de la pel°cula, genera una proporci¢n de entre su ancho y su altura.
+imdb_score;Puntaje de la pel°cula seg£n la plataforma IMDB (Internet Movie Database)
+tomato_score;Puntaje de la pel°cula seg£n la plataforma Rottentomatoes (criticos de peliculas)
+tomato_audience_score;Puntaje de la pel°cula seg£n la plataforma los suscriptores de Rottentomatoes (usuarios)
+label;"Target a predecir, 1 = ""êxito""; 0 = ""Fracaso""."
